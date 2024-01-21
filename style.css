@@ -1,0 +1,86 @@
+header {
+    background-color: lightblue;
+    color: wheat;
+    }
+
+footer {
+font-size: 25px;
+background-color: lightblue;
+color: wheat;
+    }
+
+header img, footer img {
+width: 130px;
+height: 96px;
+}
+
+footer a {
+background-color: pink;
+color: white;
+border-radius: 5px;
+text-decoration:none;
+font-size: 28px;
+}
+
+ a:hover {
+color: lightcoral;
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: pink;
+  color: wheat;
+  padding:8px ;
+  margin: 13px;
+  font-size: 22px;
+}
+
+img {
+width: 230px;
+height: 230px;
+}
+
+.fon {
+
+}
+
+.fin {
+}
+
+main{
+background-color:pink;
+color:blue;
+}
+
+table {
+background-color: lightblue;
+color:darkviolet;
+}
+
+nav a {
+padding: 3px;
+margin: 10px;
+font-size: 20px;
+text-decoration: none;
+}
+
+.pro {
+font-size: 20px;
+color: coral;
+}
+
+.coco {
+font-size: 20px;
+color: cornflowerblue;
+}
+
+.aaat{
+text-align:right;
+font-size: 17px;
+}
+
+.ggg{
+text-align:center;
+}
